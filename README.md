@@ -28,10 +28,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠️ Tech Stack:
 
-### Languages:
+### Languages & Frameworks:
 <p>
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-555555?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
@@ -39,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 ### Frontend:
 <p>
   <img src="https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-555555?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
 </p>
 
 ### Backend:
@@ -51,6 +54,12 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img src="https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-555555?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+</p>
+
+### Other Tools:
+<p>
+  <img src="https://img.shields.io/badge/Arduino-555555?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
+  <img src="https://img.shields.io/badge/WordPress-555555?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress" />
 </p>
 
 ---
