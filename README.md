@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 👨‍💻 Passionate developer who loves to turn coffee ☕ into code.  
 🔭 Always learning, always coding, always solving!  
 🌐 Building awesome web applications, one line of code at a time.  
-💼 **Available for Freelance Work**: Feel free to reach out if you'd like to collaborate!
+💼 **Available for Freelance Work**: Reach out via [email](mailto:developer.zaid4u@gmail.com) if you'd like to collaborate!
 
 ---
 
