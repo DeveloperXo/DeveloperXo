@@ -69,6 +69,14 @@ You can click the Preview link to take a look at your changes.
 - Debugging is like being a detective in a crime movie where you are also the murderer! 🔍💻
 - Open to collaborating on exciting projects. Let's build something awesome together!
 
+- There's no such thing as a miracle.<br>
+  My wishes are just, hide in the moonlight! 🌙<br>
+  Is it that grand?<br>
+  Not at all.<br>
+  That's the hard at the end of the dawn!<br>
+  Please you Stay Alive.
+
+
 ---
 
 ## 📫 Let's Connect:
